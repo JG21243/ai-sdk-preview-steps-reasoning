@@ -17,9 +17,39 @@ export default function Home() {
 
   const suggestedActions = [
     {
-      title: "How many 'r's",
-      label: "are in the word strawberry?",
-      action: "How many 'r's are in the word strawberry?",
+      title: "Answer this logic Puzzle",
+      label: "Five runners finished a race. Amy finished before Bart.  Carl finished before Dan.  Dan finished before Emily.  Bart finished before Carl.  Who finished third?",
+      action: "Five runners finished a race. Amy finished before Bart.  Carl finished before Dan.  Dan finished before Emily.  Bart finished before Carl.  Who finished third?",
+    },
+    {
+      title: "Solve this riddle",
+      label: "I am an odd number. Take away a letter and I become even. What number am I?",
+      action: "What number am I? I am an odd number. Take away a letter and I become even.",
+    },
+    {
+      title: "Calculate this",
+      label: "What is the sum of the first 10 prime numbers?",
+      action: "Calculate the sum of the first 10 prime numbers.",
+    },
+    {
+      title: "Capital City Quiz",
+      label: "What is the capital of Australia?",
+      action: "What is the capital of Australia?",
+    },
+    {
+      title: "Historical Fact Check",
+      label: "Who painted the Mona Lisa?",
+      action: "Who is the artist behind the Mona Lisa painting?",
+    },
+    {
+      title: "Write a short poem",
+      label: "About a cat sitting in a sunny window.",
+      action: "Write a short poem about a cat sitting in a sunny window.",
+    },
+    {
+      title: "Give me a travel suggestion",
+      label: "I like history and beaches, where should I go?",
+      action: "I'm looking for a travel destination with both historical sites and beautiful beaches. Any suggestions?",
     },
   ];
 
